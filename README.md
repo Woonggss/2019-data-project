@@ -55,7 +55,7 @@
 
 ### 3.2. Clustering 분석
 
-이용자들의 연령대 코드, 이용 건수, 운동량, 탄소량, 이동 거리, 이동 시간를 변수로 하여 clustering 분석을 수행하였습니다. 이후 고객 군집에 맞춘 새로운 마케팅 전략 implication을 제시하였습니다. 아래 사진은 아래 사진은 결과 슬라이드 중 일부입니다.([여기](https://github.com/Woonggss/2019-data-project/blob/main/%EB%94%B0%EB%A6%89%EC%9D%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EB%B0%8F%20%EC%A0%84%EB%9E%B5%20%EC%A0%9C%EC%95%88.pdf)에서 다른 결과들도 확인할 수 있습니다)
+이용자들의 연령대 코드, 이용 건수, 운동량, 탄소량, 이동 거리, 이동 시간를 변수로 하여 clustering 분석을 수행하였습니다. 이후 고객 군집에 맞춘 새로운 마케팅 전략 implication을 제시하였습니다. 아래 사진은 결과 슬라이드 중 일부입니다.([여기](https://github.com/Woonggss/2019-data-project/blob/main/%EB%94%B0%EB%A6%89%EC%9D%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EB%B0%8F%20%EC%A0%84%EB%9E%B5%20%EC%A0%9C%EC%95%88.pdf)에서 다른 결과들도 확인할 수 있습니다)
 
 ![image](https://user-images.githubusercontent.com/88834958/135236270-ecd7d2dc-8dc5-4fc8-a96a-e188a9485374.png)
 ![image](https://user-images.githubusercontent.com/88834958/135236321-d790c948-d3bc-4541-aa95-3a8aa3502291.png)
